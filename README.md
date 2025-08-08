@@ -4,7 +4,7 @@ A lightweight Terraform configuration for provisioning basic Google Cloud Platfo
 
 ## 🏗️ Infrastructure Components
 
-### Compute Resources
+### Compute Resources 
 - **Compute Engine VM**: f1-micro instance (always-free tier eligible)
   - Location: us-west1-b zone
   - OS: Debian 11
